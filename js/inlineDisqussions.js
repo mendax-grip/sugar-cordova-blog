@@ -14,7 +14,7 @@
  */
 
 // Disqus global vars.
-var disqus_shortname;
+var disqus_shortname = 'siddharthkanungo';
 var disqus_identifier;
 var disqus_url;
 
